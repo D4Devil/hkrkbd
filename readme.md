@@ -2,10 +2,11 @@
 
 ![hkrkbd](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+*My hombrew version of the [crkbd](). It is a slim, 36 keyboard.*
+*The case can be assambled without screws and can be easily handwired*
 
 * Keyboard Maintainer: [Damian Moreno](https://github.com/D4Devil)
-* Hardware Supported: *The PCBs, controllers supported*
+* Hardware Supported: *Designed and Tested with Pro Micro*
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
