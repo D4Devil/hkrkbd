@@ -15,7 +15,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      * │ 0 │ . │Ent│ + │
      * └───┴───┴───┴───┘
      */
-    [0] = LAYOUT_ortho_4x4(
+    [0] = main(
         KC_PDOT,   KC_G,   KC_T,
         KC_V,   KC_F,   KC_R,
         KC_C,   KC_D,   KC_E,
